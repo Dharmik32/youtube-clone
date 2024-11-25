@@ -2,44 +2,44 @@ import React from "react";
 
 const commentsData = [
   {
-    name: "Dharmik Chavda",
+    name: "You",
     text: "Lorem ipsum dolor sit amet consectetur",
     replies: [],
   },
   {
-    name: "Dharmik Chavda",
+    name: "You",
     text: "Lorem ipsum dolor sit amet consectetur",
     replies: [
       {
-        name: "Dharmik Chavda",
+        name: "You",
         text: "Lorem ipsum dolor sit amet consectetur",
         replies: [],
       },
       {
-        name: "Dharmik Chavda",
+        name: "You",
         text: "Lorem ipsum dolor sit amet consectetur",
         replies: [
           {
-            name: "Dharmik Chavda",
+            name: "You",
             text: "Lorem ipsum dolor sit amet consectetur",
             replies: [
               {
-                name: "Dharmik Chavda",
+                name: "You",
                 text: "Lorem ipsum dolor sit amet consectetur",
                 replies: [
                   {
-                    name: "Dharmik Chavda",
+                    name: "You",
                     text: "Lorem ipsum dolor sit amet consectetur",
                     replies: [
                       {
-                        name: "Dharmik Chavda",
+                        name: "You",
                         text: "Lorem ipsum dolor sit amet consectetur",
                         replies: [],
                       },
                     ],
                   },
                   {
-                    name: "Dharmik Chavda",
+                    name: "You",
                     text: "Lorem ipsum dolor sit amet consectetur",
                     replies: [],
                   },
@@ -52,17 +52,17 @@ const commentsData = [
     ],
   },
   {
-    name: "Dharmik Chavda",
+    name: "You",
     text: "Lorem ipsum dolor sit amet consectetur",
     replies: [],
   },
   {
-    name: "Dharmik Chavda",
+    name: "You",
     text: "Lorem ipsum dolor sit amet consectetur",
     replies: [],
   },
   {
-    name: "Dharmik Chavda",
+    name: "You",
     text: "Lorem ipsum dolor sit amet consectetur",
     replies: [],
   },
